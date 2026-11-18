@@ -1,0 +1,12 @@
+langgraph>=0.2.50
+openai>=1.54
+tavily-python>=0.5
+fastapi>=0.115
+uvicorn[standard]>=0.32
+psycopg[binary]>=3.2
+langfuse>=2.50,<3
+pydantic>=2.8
+numpy>=1.26
+python-dotenv>=1.0
+streamlit>=1.40
+requests>=2.32
